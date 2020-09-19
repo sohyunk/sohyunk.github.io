@@ -36,7 +36,7 @@
     "gatsby"
   ],
   "license": "MIT",
-  "homepage" : "https://sohyunk.github.io/",
+  "homepage" : "https://github.com/sohyunk/sohyunk.github.io",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
